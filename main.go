@@ -261,21 +261,21 @@ Body to be entered in this format:
 
 Body:-
 	{
-    "title": "with Spiderman",
+    "title": "First ever meeting",
     "participants": [
         {
-            "name": "Fedrick",
-            "email": "f123.com",
-            "rsvp": "Yes"
-        },
-        {
-            "name": "Joaqium",
-            "email": "joe123.com",
+            "name": "Max",
+            "email": "maxy.com",
             "rsvp": "No"
         },
         {
-            "name": "Zoe",
-            "email": "zoe123.com",
+            "name": "Alex",
+            "email": "alex.com",
+            "rsvp": "No"
+        },
+        {
+            "name": "Booer",
+            "email": "boom.com",
             "rsvp": "Yes"
         }
     ],
